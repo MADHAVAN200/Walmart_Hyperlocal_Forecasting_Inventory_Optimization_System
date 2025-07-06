@@ -1,0 +1,10 @@
+date,city,trend,trend_score,event_name,event_flag,temperature,rainfall
+20-06-2025,Mumbai,#rainwear,40,Monsoon Carnival,1,30,80
+20-06-2025,Delhi,#summerdrinks,25,Street Food Fest,1,38,2
+20-06-2025,Chennai,#icecream,35,Beach Day Promo,1,34,5
+21-06-2025,Mumbai,#umbrellas,30,Monsoon Carnival,1,29,90
+21-06-2025,Delhi,#coldcoffee,20,None,0,37,0
+21-06-2025,Chennai,#coolers,28,Coconut Fest,1,35,3
+22-06-2025,Mumbai,#waterproof,25,Flash Flood Alert,1,31,100
+22-06-2025,Delhi,#icecream,15,Kids Festival,1,36,5
+22-06-2025,Chennai,#mintdrinks,22,None,0,34,0

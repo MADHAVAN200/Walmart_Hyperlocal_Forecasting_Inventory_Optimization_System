@@ -1,4 +1,4 @@
-# Walmart Hyperlocal Forecasting & Inventory Optimization System
+# BigRetailers Forecasting & Inventory Optimization System
 This project is a prototype for real-time inventory optimization and demand forecasting at the store level using AI techniques including Federated Learning, Edge Computing, and external signals like social trends, weather, and local events.
 
 ## Key Modules
